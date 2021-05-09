@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/NumToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/ReturnNegative.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
