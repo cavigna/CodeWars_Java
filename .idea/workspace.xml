@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kata 8 kyu/NumToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kata 8 kyu/ReturnNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kata 8 kyu/StringReversed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kata 8 kyu/YesOrNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nacho/NumToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nacho/ReturnNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nacho/StringReversed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nacho/YesOrNo.java" afterDir="false" />
+    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Reestructuración">
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/ryu8/SmallestIntegerFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1620539645434</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reestructuración">
+      <created>1620605078333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620605078333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,5 +136,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reestructuración" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reestructuración" />
   </component>
 </project>
