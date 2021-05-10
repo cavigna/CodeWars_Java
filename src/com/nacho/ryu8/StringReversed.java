@@ -1,4 +1,4 @@
-package com.nacho;
+package com.nacho.ryu8;
 
 public class StringReversed {
     public static String solution(String str) {

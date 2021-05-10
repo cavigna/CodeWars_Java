@@ -1,4 +1,4 @@
-package com.nacho;
+package com.nacho.ryu8;
 
 public class Multiply {
     public static Double multiply(Double a, Double b) {

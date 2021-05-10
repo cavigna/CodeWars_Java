@@ -1,4 +1,4 @@
-package com.nacho;
+package com.nacho.ryu8;
 
 public class ReturnNegative {
     public static int makeNegative(final int n) {

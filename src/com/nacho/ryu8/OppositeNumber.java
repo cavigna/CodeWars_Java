@@ -1,4 +1,4 @@
-package com.nacho;
+package com.nacho.ryu8;
 
 public class OppositeNumber {
     public static int opposite(int number)

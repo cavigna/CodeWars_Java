@@ -1,4 +1,4 @@
-package com.nacho;
+package com.nacho.ryu8;
 
 public class EvenOrOdd {
     public static String even_or_odd(int n){
