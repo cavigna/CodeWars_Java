@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Reestructuración">
-      <change afterPath="$PROJECT_DIR$/src/com/nacho/ryu8/SmallestIntegerFinder.java" afterDir="false" />
+    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Katas 8 Ryu">
+      <change afterPath="$PROJECT_DIR$/Kata 7 kyu/VowelCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kata 8 kyu/SmallestIntegerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kata 8 kyu/SquareSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/ryu7/VowelCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/ryu8/SquareSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +92,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Kata 7 kyu" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programación en Java\CodeWars_Java\Kata 7 kyu" />
+      <recent name="D:\Programación en Java\CodeWars_Java\Kata 8 kyu" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
@@ -122,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620605078333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Katas 8 Ryu">
+      <created>1620606555633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620606555633</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reestructuración" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reestructuración" />
+    <MESSAGE value="Katas 8 Ryu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Katas 8 Ryu" />
   </component>
 </project>
