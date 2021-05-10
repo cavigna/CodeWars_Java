@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Katas 7 Ryu">
-      <change afterPath="$PROJECT_DIR$/src/com/nacho/ryu6/Persist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nacho/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Katas 7 Ryu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620612818446</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Katas 7 Ryu">
+      <created>1620620658340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620620658340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
