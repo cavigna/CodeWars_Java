@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Katas 7 Ryu" />
+    <list default="true" id="8095415e-78cc-4249-a7f1-04279f47098f" name="Default Changelist" comment="Katas 7 Ryu">
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/kyu6/BitCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/kyu6/Multiple3Or5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/kyu7/HighAndLow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/kyu7/ReverseLonger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nacho/kyu7/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kata 7 kyu/VowelCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kata 7 kyu/VowelCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kata 8 kyu/SmallestIntegerFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kata 8 kyu/SmallestIntegerFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kata 8 kyu/SquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kata 8 kyu/SquareSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu6/Persist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu6/Persist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu7/JadenCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu7/JadenCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu7/VowelCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu7/VowelCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/NumToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/NumToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/OppositeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/OppositeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/ReturnNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/ReturnNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/SmallestIntegerFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/SmallestIntegerFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/SquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/SquareSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/StringReversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/StringReversed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/YesOrNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/YesOrNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nacho/ryu8/sumPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nacho/kyu8/sumPositive.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620620658340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Katas 7 Ryu">
+      <created>1620622438955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620622438955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-package com.nacho.ryu8;
+package com.nacho.kyu8;
 
 
 import java.util.Arrays;

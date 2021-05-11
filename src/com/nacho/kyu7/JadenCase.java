@@ -1,4 +1,4 @@
-package com.nacho.ryu7;
+package com.nacho.kyu7;
 
 public class JadenCase {
     public String toJadenCase(String phrase){

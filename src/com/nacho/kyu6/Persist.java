@@ -1,4 +1,4 @@
-package com.nacho.ryu6;
+package com.nacho.kyu6;
 
 public class Persist {
 

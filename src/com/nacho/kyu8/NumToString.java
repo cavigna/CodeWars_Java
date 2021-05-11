@@ -1,4 +1,4 @@
-package com.nacho.ryu8;
+package com.nacho.kyu8;
 
 public class NumToString {
     public static String numberToString(int num) {
